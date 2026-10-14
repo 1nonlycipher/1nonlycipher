@@ -1,16 +1,18 @@
 # Hi there, I'm Cipher 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%7C+Windows+%2F+Android;Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+C%23+%7C+Rust+%7C+TS+%7C+JS;Cybersecurity+%26+Low-Level+Nerd;Vibe+Coder+when+it+ships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%7C+Windows+%2F+Android;Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+C%23+%7C+Rust+%7C+TS+%7C+JS;Cybersecurity+%26+Low-Level+Nerd;Coding+since+COVID+lockdown)](https://git.io/typing-svg)
 
 > Reverse engineering software (Android / Windows) • Full-stack builder • Low-level + Web
 
 I'm **Cipher** ([@1nonlycipher](https://github.com/1nonlycipher)) — I break binaries for fun and build full-stack apps for real. From unpacking APKs / EXEs to shipping TypeScript backends and slick frontends.
 
+Coding since COVID lockdown back in 7th class — now in 12th (2026), still building every day.
+
 - 🔬 Currently into: Android & Windows RE, malware analysis basics, binary instrumentation
 - 🛠️ Building: full-stack tools, automation, RE utilities
 - 🐍⚙️ Daily drivers: **Python, C++, C#, JavaScript, TypeScript, Rust**
-- ✨ Also: a little vibecoding when speed > purity
 - 📫 How to reach me: open an issue / DM via GitHub
+- Also: I only vibecode a little, mostly hand-write my code
 
 ---
 
@@ -42,31 +44,11 @@ I'm **Cipher** ([@1nonlycipher](https://github.com/1nonlycipher)) — I break bi
 
 ---
 
-### 📊 GitHub Stats (Extended)
+### 📊 GitHub Stats
 
-Powered by [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
+[![Cipher's GitHub stats](https://github-stats-extended.vercel.app/api?username=1nonlycipher&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&custom_title=Cipher%27s+Stats)](https://github.com/1nonlycipher)
 
-[![Cipher's GitHub stats](https://github-stats-extended.vercel.app/api?username=1nonlycipher&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&custom_title=Cipher%27s+Stats)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=1nonlycipher&layout=donut&theme=tokyonight&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/stats-organization/github-stats-extended)
-
-> Tip: Want a different look? Fork the wizard here: https://github-stats-extended.vercel.app/frontend — change `theme=tokyonight` to `dracula, radical, gruvbox, github_dark`, etc.
-
-<details>
-<summary>⚙️ More card options (click to expand)</summary>
-
-```md
-<!-- stats -->
-[![stats](https://github-stats-extended.vercel.app/api?username=1nonlycipher&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-
-<!-- top langs compact -->
-[![langs](https://github-stats-extended.vercel.app/api/top-langs/?username=1nonlycipher&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-
-<!-- pin a repo -->
-[![pin](https://github-stats-extended.vercel.app/api/pin/?username=1nonlycipher&repo=FampayAPI&theme=tokyonight)](https://github.com/1nonlycipher/FampayAPI)
-```
-
-</details>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=1nonlycipher&layout=donut&theme=tokyonight&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/1nonlycipher)
 
 ---
 
@@ -78,7 +60,7 @@ class Cipher:
         self.roles = ["Reverse Engineer", "Full-Stack Dev"]
         self.targets = ["Android", "Windows"]
         self.languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "Rust"]
-        self.mood = "vibecoding sometimes"
+        self.mood = "a little vibecoding, mostly handwritten"
 
     def work(self):
         if "binary" in scope:
@@ -129,5 +111,4 @@ print(me.cook("Rust"))
 
 <!--
 **1nonlycipher/1nonlycipher** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-Stats by https://github.com/stats-organization/github-stats-extended
 -->
