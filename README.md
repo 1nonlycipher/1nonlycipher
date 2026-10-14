@@ -86,7 +86,7 @@ class Cipher:
         return "design → code → ship → iterate"
 
     def cook(self, lang: str) -> str:
-        return f"shipping clean {lang} code 🔥"
+        return f"shipping clean {lang} code"
 
 me = Cipher()
 print(me.cook("Rust"))
@@ -98,11 +98,27 @@ print(me.cook("Rust"))
 
 ---
 
-### 🏆 Trophy Case
-[![trophy](https://github-profile-trophy.vercel.app/?username=1nonlycipher&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Achievements
+
+<!-- NOTE: ryo-ma/github-profile-trophy official Vercel is down (402 DEPLOYMENT_DISABLED).
+     Replaced with working summary-cards + streak. Self-host trophy if you want it back:
+     https://github.com/ryo-ma/github-profile-trophy -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nonlycipher&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nonlycipher&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1nonlycipher&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1nonlycipher&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1nonlycipher&theme=tokyonight&utcOffset=8)
 
 ### 📈 Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1nonlycipher&theme=tokyo-night&hide_border=true)
+
+<!-- NOTE: ashutosh00710/github-readme-activity-graph official Vercel is down (402).
+     Replaced with working streak + contribution chart (both verified 200). -->
+
+[![Streak](https://streak-stats.demolab.com/?user=1nonlycipher&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Contributions](https://ghchart.rshah.org/58a6ff/1nonlycipher)
+
 ![](https://komarev.com/ghpvc/?username=1nonlycipher&color=58a6ff&style=flat-square&label=profile+views)
 
 ---
