@@ -94,12 +94,9 @@ print(me.cook("Rust"))
 
 ### 📈 Activity
 
-<!-- NOTE: ashutosh00710/github-readme-activity-graph official Vercel is down (402).
-     Replaced with working streak + contribution chart (both verified 200). -->
+<!-- Activity streak (contribution graph removed — GitHub shows it natively below) -->
 
 [![Streak](https://streak-stats.demolab.com/?user=1nonlycipher&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Contributions](https://ghchart.rshah.org/58a6ff/1nonlycipher)
 
 ![](https://komarev.com/ghpvc/?username=1nonlycipher&color=58a6ff&style=flat-square&label=profile+views)
 
