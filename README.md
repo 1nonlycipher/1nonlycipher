@@ -10,9 +10,6 @@ Coding since COVID lockdown back in 7th class — now in 12th (2026), still buil
 
 - 🔬 Currently into: Android & Windows RE, malware analysis basics, binary instrumentation
 - 🛠️ Building: full-stack tools, automation, RE utilities
-- 🐍⚙️ Daily drivers: **Python, C++, C#, JavaScript, TypeScript, Rust**
-- 📫 How to reach me: open an issue / DM via GitHub
-- Also: I only vibecode a little, mostly hand-write my code
 
 ---
 
@@ -82,9 +79,6 @@ print(me.cook("Rust"))
 
 ### 🏆 Achievements
 
-<!-- NOTE: ryo-ma/github-profile-trophy official Vercel is down (402 DEPLOYMENT_DISABLED).
-     Replaced with working summary-cards + streak. Self-host trophy if you want it back:
-     https://github.com/ryo-ma/github-profile-trophy -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nonlycipher&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nonlycipher&theme=tokyonight)
@@ -93,8 +87,6 @@ print(me.cook("Rust"))
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1nonlycipher&theme=tokyonight&utcOffset=8)
 
 ### 📈 Activity
-
-<!-- Activity streak (contribution graph removed — GitHub shows it natively below) -->
 
 [![Streak](https://streak-stats.demolab.com/?user=1nonlycipher&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
